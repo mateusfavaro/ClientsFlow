@@ -1,2 +1,2 @@
 # ClientsFlow
-API para cadastro de clientes para um escritorio de advocacia.
+API para gerenciar clientes em um escritório de advocacia.
