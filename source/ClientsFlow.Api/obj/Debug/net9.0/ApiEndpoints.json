@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ClientsFlow.Api.Controllers.ClientsController",
+    "Method": "RegisterClients",
+    "RelativePath": "api/Clients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ClientsFlow.Communication.Requests.RequestRegisterClientJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

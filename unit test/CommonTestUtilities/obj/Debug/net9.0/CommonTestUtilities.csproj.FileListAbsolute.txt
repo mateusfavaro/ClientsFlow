@@ -1,0 +1,15 @@
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\bin\Debug\net9.0\CommonTestUtilities.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\bin\Debug\net9.0\CommonTestUtilities.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\bin\Debug\net9.0\CommonTestUtilities.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\bin\Debug\net9.0\ClientsFlow.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\bin\Debug\net9.0\ClientsFlow.Communication.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTestUtilities.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTestUtilities.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTestUtilities.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTe.14C365E1.Up2Date
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTestUtilities.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\refint\CommonTestUtilities.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\CommonTestUtilities.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\unit test\CommonTestUtilities\obj\Debug\net9.0\ref\CommonTestUtilities.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9WNrA4X/VoQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\unit test\\CommonTestUtilities\\CommonTestUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateus\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

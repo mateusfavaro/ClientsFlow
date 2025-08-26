@@ -1,0 +1,15 @@
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\bin\Debug\net9.0\ClientsFlow.Infrastructure.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\bin\Debug\net9.0\ClientsFlow.Infrastructure.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\bin\Debug\net9.0\ClientsFlow.Infrastructure.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\bin\Debug\net9.0\ClientsFlow.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\bin\Debug\net9.0\ClientsFlow.Domain.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsF.8DE03A91.Up2Date
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\refint\ClientsFlow.Infrastructure.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ref\ClientsFlow.Infrastructure.dll

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A56A218-44B5-49B6-81D9-C07AF746A822}|Validators.Tests\\Validators.Tests.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\validators.tests\\clients\\register\\registerclientsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A56A218-44B5-49B6-81D9-C07AF746A822}|Validators.Tests\\Validators.Tests.csproj|solutionrelative:validators.tests\\clients\\register\\registerclientsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|solutionrelative:source\\clientsflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.application\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|solutionrelative:source\\clientsflow.application\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|solutionrelative:source\\clientsflow.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterClientsValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "RelativeDocumentMoniker": "Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "RelativeToolTip": "Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:58:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:58:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:58:32.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterClientUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:55:58.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

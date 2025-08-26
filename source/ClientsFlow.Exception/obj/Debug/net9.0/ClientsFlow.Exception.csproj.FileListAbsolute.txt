@@ -1,0 +1,13 @@
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\bin\Debug\net9.0\ClientsFlow.Exception.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\bin\Debug\net9.0\ClientsFlow.Exception.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\bin\Debug\net9.0\ClientsFlow.Exception.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\refint\ClientsFlow.Exception.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ref\ClientsFlow.Exception.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.ExceptionBase.ResourceErrorMessages.resources
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.csproj.GenerateResource.cache

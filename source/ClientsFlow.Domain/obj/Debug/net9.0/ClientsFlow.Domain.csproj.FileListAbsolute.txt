@@ -1,0 +1,11 @@
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\bin\Debug\net9.0\ClientsFlow.Domain.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\bin\Debug\net9.0\ClientsFlow.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\bin\Debug\net9.0\ClientsFlow.Domain.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\refint\ClientsFlow.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ref\ClientsFlow.Domain.dll

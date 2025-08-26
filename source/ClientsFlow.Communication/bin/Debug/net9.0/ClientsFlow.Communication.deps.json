@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ClientsFlow.Communication/1.0.0": {
+        "runtime": {
+          "ClientsFlow.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientsFlow.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

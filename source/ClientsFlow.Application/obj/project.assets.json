@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "ClientsFlow.Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ClientsFlow.Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientsFlow.Communication.dll": {}
+        }
+      },
+      "ClientsFlow.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ClientsFlow.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientsFlow.Domain.dll": {}
+        }
+      },
+      "ClientsFlow.Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ClientsFlow.Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientsFlow.Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientsFlow.Communication/1.0.0": {
+      "type": "project",
+      "path": "../ClientsFlow.Communication/ClientsFlow.Communication.csproj",
+      "msbuildProject": "../ClientsFlow.Communication/ClientsFlow.Communication.csproj"
+    },
+    "ClientsFlow.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ClientsFlow.Domain/ClientsFlow.Domain.csproj",
+      "msbuildProject": "../ClientsFlow.Domain/ClientsFlow.Domain.csproj"
+    },
+    "ClientsFlow.Exception/1.0.0": {
+      "type": "project",
+      "path": "../ClientsFlow.Exception/ClientsFlow.Exception.csproj",
+      "msbuildProject": "../ClientsFlow.Exception/ClientsFlow.Exception.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "ClientsFlow.Communication >= 1.0.0",
+      "ClientsFlow.Domain >= 1.0.0",
+      "ClientsFlow.Exception >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mateus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\ClientsFlow.Application.csproj",
+      "projectName": "ClientsFlow.Application",
+      "projectPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\ClientsFlow.Application.csproj",
+      "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Communication\\ClientsFlow.Communication.csproj": {
+              "projectPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Communication\\ClientsFlow.Communication.csproj"
+            },
+            "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Domain\\ClientsFlow.Domain.csproj": {
+              "projectPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Domain\\ClientsFlow.Domain.csproj"
+            },
+            "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Exception\\ClientsFlow.Exception.csproj": {
+              "projectPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Exception\\ClientsFlow.Exception.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

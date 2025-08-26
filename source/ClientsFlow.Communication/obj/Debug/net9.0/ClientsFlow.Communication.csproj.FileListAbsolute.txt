@@ -1,0 +1,11 @@
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\bin\Debug\net9.0\ClientsFlow.Communication.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\bin\Debug\net9.0\ClientsFlow.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\bin\Debug\net9.0\ClientsFlow.Communication.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\refint\ClientsFlow.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ref\ClientsFlow.Communication.dll
