@@ -44,3 +44,4 @@ C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Api\obj\D
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Api\obj\Debug\net9.0\ClientsFlow.Api.sourcelink.json

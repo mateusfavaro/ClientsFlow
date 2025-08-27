@@ -12,4 +12,3 @@ namespace ClientsFlow.Exception.ExceptionBase
         }
     }
 }
- 

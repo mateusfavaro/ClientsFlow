@@ -17,3 +17,4 @@ C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Applicati
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Application\obj\Debug\net9.0\refint\ClientsFlow.Application.dll
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Application\obj\Debug\net9.0\ClientsFlow.Application.pdb
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Application\obj\Debug\net9.0\ref\ClientsFlow.Application.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Application\obj\Debug\net9.0\ClientsFlow.Application.sourcelink.json

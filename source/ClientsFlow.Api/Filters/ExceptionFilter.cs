@@ -18,7 +18,6 @@ namespace ClientsFlow.Api.Filters
             {
                 ThrowUnknowError(context);
             }
-            
         }
 
         private void HandleProjectException(ExceptionContext context)

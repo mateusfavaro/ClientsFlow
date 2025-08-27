@@ -109,3 +109,4 @@ C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\Validators.Tests\obj\Debug\n
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\Validators.Tests\obj\Debug\net9.0\Validators.Tests.pdb
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\Validators.Tests\obj\Debug\net9.0\Validators.Tests.genruntimeconfig.cache
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\Validators.Tests\obj\Debug\net9.0\ref\Validators.Tests.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\Validators.Tests\obj\Debug\net9.0\Validators.Tests.sourcelink.json
