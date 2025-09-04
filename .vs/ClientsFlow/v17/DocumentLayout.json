@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9EDEF64-B687-4409-A6BF-06BDF3C05A7E}|source\\ClientsFlow.Exception\\ClientsFlow.Exception.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.exception\\exceptionbase\\erroronvaliationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9EDEF64-B687-4409-A6BF-06BDF3C05A7E}|source\\ClientsFlow.Exception\\ClientsFlow.Exception.csproj|solutionrelative:source\\clientsflow.exception\\exceptionbase\\erroronvaliationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.application\\usecases\\clients\\register\\registerclientsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|solutionrelative:source\\clientsflow.application\\usecases\\clients\\register\\registerclientsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A56A218-44B5-49B6-81D9-C07AF746A822}|Validators.Tests\\Validators.Tests.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\validators.tests\\clients\\register\\registerclientsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A56A218-44B5-49B6-81D9-C07AF746A822}|Validators.Tests\\Validators.Tests.csproj|solutionrelative:validators.tests\\clients\\register\\registerclientsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterClientsValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCkAAAANAAAAAAAAAA==",
+              "Title": "RegisterClientsValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "RelativeDocumentMoniker": "Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "RelativeToolTip": "Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T02:51:37.08Z",
+              "WhenOpened": "2025-08-27T03:27:47.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ErrorOnValiationException.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Exception\\ExceptionBase\\ErrorOnValiationException.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Exception\\ExceptionBase\\ErrorOnValiationException.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Exception\\ExceptionBase\\ErrorOnValiationException.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Exception\\ExceptionBase\\ErrorOnValiationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Title": "RegisterClientsValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T02:19:20.486Z",
+              "WhenOpened": "2025-08-27T02:51:37.08Z",
               "EditorCaption": ""
             }
           ]
