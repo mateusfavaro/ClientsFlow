@@ -2,15 +2,10 @@
 using ClientsFlow.Communication.Requests;
 using Microsoft.AspNetCore.Mvc;
 
-/*O Projeto precisará conter (21/08/25):
- * Endpoint para registrar um cliente; -- feito
- * Regras de negocio; -- feito
- * Tratamento de erros; -- feito
- * Tratamento de excessões; -- feito
- * Lista de erros; -- feito
- * Erros em outros idiomas;
- * Testes unitários;
- */
+/*CONTINUAÇÃO
+ * Deverá ser configurado um banco de dados MYSQL para armazenar os dados da API
+ * Construir injeção de dependencia;
+*/
 
 namespace ClientsFlow.Api.Controllers
 {

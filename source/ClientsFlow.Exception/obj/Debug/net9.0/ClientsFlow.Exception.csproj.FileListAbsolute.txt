@@ -11,3 +11,4 @@ C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ref\ClientsFlow.Exception.dll
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.ExceptionBase.ResourceErrorMessages.resources
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.csproj.GenerateResource.cache
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Exception\obj\Debug\net9.0\ClientsFlow.Exception.sourcelink.json
