@@ -9,3 +9,4 @@ C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communica
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\refint\ClientsFlow.Communication.dll
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.pdb
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ref\ClientsFlow.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Communication\obj\Debug\net9.0\ClientsFlow.Communication.sourcelink.json

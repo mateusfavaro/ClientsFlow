@@ -9,3 +9,4 @@ C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\ob
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\refint\ClientsFlow.Domain.dll
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.pdb
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ref\ClientsFlow.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Domain\obj\Debug\net9.0\ClientsFlow.Domain.sourcelink.json

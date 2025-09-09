@@ -13,3 +13,4 @@ C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastru
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\refint\ClientsFlow.Infrastructure.dll
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.pdb
 C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ref\ClientsFlow.Infrastructure.dll
+C:\Users\Mateus\Documents\DEV\Workspace\ClientsFlow\source\ClientsFlow.Infrastructure\obj\Debug\net9.0\ClientsFlow.Infrastructure.sourcelink.json

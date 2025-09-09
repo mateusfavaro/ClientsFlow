@@ -1,5 +1,5 @@
 using ClientsFlow.Api.Filters;
-using Microsoft.OpenApi.Models;
+using ClientsFlow.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +11,8 @@ builder.Services.AddOpenApi();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddMvc(options => options.Filters.Add(typeof(ExceptionFilter)));
+
+builder.Services.AddInfrastructureDataBase(builder.Configuration);
 
 var app = builder.Build();
 

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|solutionrelative:source\\clientsflow.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|solutionrelative:source\\clientsflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.application\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|solutionrelative:source\\clientsflow.application\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.infrastructure\\dataacess\\repositories\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|solutionrelative:source\\clientsflow.infrastructure\\dataacess\\repositories\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A56A218-44B5-49B6-81D9-C07AF746A822}|Validators.Tests\\Validators.Tests.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\validators.tests\\clients\\register\\registerclientsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A56A218-44B5-49B6-81D9-C07AF746A822}|Validators.Tests\\Validators.Tests.csproj|solutionrelative:validators.tests\\clients\\register\\registerclientsvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.infrastructure\\dataacess\\repositories\\clientsdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|solutionrelative:source\\clientsflow.infrastructure\\dataacess\\repositories\\clientsdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.application\\usecases\\clients\\register\\registerclientsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|solutionrelative:source\\clientsflow.application\\usecases\\clients\\register\\registerclientsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.infrastructure\\dataacess\\repositories\\clientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|solutionrelative:source\\clientsflow.infrastructure\\dataacess\\repositories\\clientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Program.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Program.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T13:59:57.126Z",
+              "WhenOpened": "2025-09-08T23:22:51.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterClientUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Title": "DependencyInjectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T18:41:15.296Z",
+              "WhenOpened": "2025-09-08T23:21:43.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RegisterClientsValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
-              "RelativeDocumentMoniker": "Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
-              "RelativeToolTip": "Validators.Tests\\Clients\\Register\\RegisterClientsValidatorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Title": "ClientsDataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T03:27:47.842Z",
+              "WhenOpened": "2025-09-08T23:21:41.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RegisterClientsValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientsValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Title": "ClientsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T02:51:37.08Z",
+              "WhenOpened": "2025-09-08T23:13:37.609Z",
               "EditorCaption": ""
             }
           ]
