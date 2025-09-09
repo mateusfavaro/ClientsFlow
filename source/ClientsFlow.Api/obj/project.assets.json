@@ -380,7 +380,8 @@
         "dependencies": {
           "ClientsFlow.Communication": "1.0.0",
           "ClientsFlow.Domain": "1.0.0",
-          "ClientsFlow.Exception": "1.0.0"
+          "ClientsFlow.Exception": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.8"
         },
         "compile": {
           "bin/placeholder/ClientsFlow.Application.dll": {}

@@ -1,6 +1,6 @@
 ﻿using ClientsFlow.Domain.Entities;
 
-namespace ClientsFlow.Domain.Repositories
+namespace ClientsFlow.Domain.Repositories.Clients
 {
 
 

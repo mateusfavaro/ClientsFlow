@@ -15,14 +15,14 @@ namespace ClientsFlow.Api.Controllers
     {
 
         [HttpPost]
-        public IActionResult RegisterClients([FromBody] RequestRegisterClientJson request)
+        public IActionResult RegisterClients(
+            [FromServices] IRegisterClientUseCase useCase,
+            [FromBody] RequestRegisterClientJson request
+            )
         {
 
-            var useCase = new RegisterClientUseCase();
             var response = useCase.RegisterClient(request);
-
             return Created(string.Empty, response);
-
         }
     }
 }

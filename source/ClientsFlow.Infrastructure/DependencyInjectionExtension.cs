@@ -1,4 +1,4 @@
-﻿using ClientsFlow.Domain.Repositories;
+﻿using ClientsFlow.Domain.Repositories.Clients;
 using ClientsFlow.Infrastructure.DataAcess.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 namespace ClientsFlow.Infrastructure
 {
 
-    /*Essa classe é a que vai fazer a injeção de dependencia no Program, tendo em vista que as classes injetadas são "private"
+    /* Essa classe é a que vai fazer a injeção de dependencia no Program, tendo em vista que as classes injetadas são "private"
      * Dessa forma, a injeção será configurada aqui dentro e essa classe será chamada dentro de program.
      * Essa injeção será tudo relacionado a comunicação com o banco de dados, tendo em vista que heverá outras classes de injeção, porém, elas estarão dentro da pasta
      * respectiva do que será injetado*/
@@ -22,14 +22,14 @@ namespace ClientsFlow.Infrastructure
         }
 
 
-        //Metodo que vai criar o repositorio para salvar no banco de dados;
+        //Metodo que vai ser chamado no AddInfrastructureDataBase para injetar a interface e a classe que  irá salvar os dados no banco de dados;
         private static void AddRepositories(IServiceCollection services)
         {
             services.AddScoped<IClientsRepository, ClientsRepository>();
         }
 
 
-        /*Metodo que faz a conexão com o banco de dados;
+        /* Metodo que vai injetar a classe que faz a conexão com o banco de dados;
          * Aqui dentro possui as configurações do banco de dados MySQL instalado localmente na maquina;
          */
         private static void AddDataBaseContext(IServiceCollection services, IConfiguration configuration)
@@ -45,3 +45,11 @@ namespace ClientsFlow.Infrastructure
         }
     }
 }
+
+
+
+
+
+//PARA HOJE// FAZER A INJEÇÃO DE DEPENDENCIA DO AddRepositories NO USE CASE PARA QUE OS DADOS LÁ PASSADOS SEJAM PERSISTIDOS NO BANCO DE DADOS
+// FAZER A CORREÇÃO DA CLASSE QUE SALVA NO BANCO DE DADOS (SAVECHANGES)
+// FAZER A INJEÇÃO DE DEPENDENCIA DO USE CASE NO CONTROLLER

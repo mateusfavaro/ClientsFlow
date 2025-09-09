@@ -1,5 +1,5 @@
 ﻿using ClientsFlow.Domain.Entities;
-using ClientsFlow.Domain.Repositories;
+using ClientsFlow.Domain.Repositories.Clients;
 
 namespace ClientsFlow.Infrastructure.DataAcess.Repositories
 {

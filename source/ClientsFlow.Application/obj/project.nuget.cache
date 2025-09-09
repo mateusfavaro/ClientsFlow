@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3uqzks7ajs4=",
+  "dgSpecHash": "ZIB3S7RCOZM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\ClientsFlow.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
