@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DependencyInjectionExtension.cs",
               "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DependencyInjectionExtension.cs",
               "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DependencyInjectionExtension.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T00:07:20.947Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "source\\ClientsFlow.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T23:22:51.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T23:22:51.121Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T23:13:37.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T23:13:37.609Z"
             }
           ]
         }

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|solutionrelative:source\\clientsflow.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|solutionrelative:source\\clientsflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.infrastructure\\dataacess\\repositories\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|solutionrelative:source\\clientsflow.infrastructure\\dataacess\\repositories\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.infrastructure\\dataacess\\repositories\\clientsdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|solutionrelative:source\\clientsflow.infrastructure\\dataacess\\repositories\\clientsdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93580B3D-9C37-40EF-9CA8-41E0ABBCB8E8}|source\\ClientsFlow.Infrastructure\\ClientsFlow.Infrastructure.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.infrastructure\\dataacess\\repositories\\clientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,51 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DependencyInjectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DependencyInjectionExtension.cs",
+              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DependencyInjectionExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T00:07:20.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Program.cs",
               "RelativeDocumentMoniker": "source\\ClientsFlow.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Program.cs",
               "RelativeToolTip": "source\\ClientsFlow.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T23:22:51.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjectionExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\DependencyInjectionExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T23:21:43.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClientsDataBaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsDataBaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T23:21:41.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ClientsRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
               "RelativeDocumentMoniker": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
               "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
               "RelativeToolTip": "source\\ClientsFlow.Infrastructure\\DataAcess\\Repositories\\ClientsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T23:13:37.609Z",
               "EditorCaption": ""

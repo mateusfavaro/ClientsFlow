@@ -21,6 +21,7 @@ namespace ClientsFlow.Infrastructure
             AddDataBaseContext(services, configuration);
         }
 
+
         //Metodo que vai criar o repositorio para salvar no banco de dados;
         private static void AddRepositories(IServiceCollection services)
         {
