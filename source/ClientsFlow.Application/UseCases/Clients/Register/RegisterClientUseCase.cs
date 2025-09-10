@@ -9,14 +9,14 @@ namespace ClientsFlow.Application.UseCases.Clients.Register
     {
 
         private readonly IClientsRepository _repository;
+        private readonly IUnitOfWork _unitOfWork;
 
 
-        public RegisterClientUseCase(IClientsRepository repository)
+        public RegisterClientUseCase(IClientsRepository repository, IUnitOfWork unitOfWork)
         {
             _repository = repository;
+            _unitOfWork = unitOfWork;
         }
-
-
 
         public ResponseRegisterClientJson RegisterClient(RequestRegisterClientJson request)
         {
@@ -32,7 +32,7 @@ namespace ClientsFlow.Application.UseCases.Clients.Register
             };
 
             _repository.Add(entity);
-            //save changes está dentro da entidade add.
+            _unitOfWork.SaveDB();
 
 
             return new ResponseRegisterClientJson();

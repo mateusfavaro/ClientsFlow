@@ -26,6 +26,7 @@ namespace ClientsFlow.Infrastructure
         private static void AddRepositories(IServiceCollection services)
         {
             services.AddScoped<IClientsRepository, ClientsRepository>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
         }
 
 

@@ -17,8 +17,6 @@ namespace ClientsFlow.Infrastructure.DataAcess.Repositories
         {
             _dbContext.Clients.Add(client);
 
-            _dbContext.SaveChanges();
-
         }
     }
 }

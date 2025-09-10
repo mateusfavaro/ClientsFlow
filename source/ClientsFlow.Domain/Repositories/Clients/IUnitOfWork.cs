@@ -3,10 +3,7 @@
     public interface IUnitOfWork
     {
 
-        void SaveDB()
-        {
-
-        }
+        void SaveDB();
 
     }
 }
