@@ -1,5 +1,6 @@
 ﻿using ClientsFlow.Domain.Entities;
 using ClientsFlow.Domain.Repositories.Clients;
+using Microsoft.EntityFrameworkCore;
 
 namespace ClientsFlow.Infrastructure.DataAcess.Repositories
 {
@@ -13,9 +14,16 @@ namespace ClientsFlow.Infrastructure.DataAcess.Repositories
             _dbContext = dbContext;
         }
 
-        public void Add(Client client)
+        public async Task Add(Client client)
         {
-            _dbContext.Clients.Add(client);
+            await _dbContext.Clients.AddAsync(client);
+
+        }
+
+        public async Task<List<Client>> GetAll()
+        {
+            
+            return await _dbContext.Clients.ToListAsync();
 
         }
     }

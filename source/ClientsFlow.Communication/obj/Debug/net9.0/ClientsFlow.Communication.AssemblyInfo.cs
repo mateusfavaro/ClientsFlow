@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientsFlow.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe2acfbe33602f5138a538923dbb2acc9f9498ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b06e226d71885e09be4ddc6be16382e5d0de06")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClientsFlow.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientsFlow.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

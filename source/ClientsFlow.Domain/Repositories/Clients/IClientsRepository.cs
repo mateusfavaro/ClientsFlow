@@ -8,7 +8,9 @@ namespace ClientsFlow.Domain.Repositories.Clients
     public interface IClientsRepository
     {
 
-        void Add(Client client);
+        Task Add(Client client);
+
+        Task<List<Client>> GetAll();
 
     }
 }

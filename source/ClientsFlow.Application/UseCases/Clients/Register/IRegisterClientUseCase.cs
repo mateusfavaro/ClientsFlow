@@ -6,7 +6,7 @@ namespace ClientsFlow.Application.UseCases.Clients.Register
     public interface IRegisterClientUseCase
     {
 
-        ResponseRegisterClientJson RegisterClient(RequestRegisterClientJson request);
+        Task <ResponseRegisterClientJson> RegisterClient(RequestRegisterClientJson request);
 
     }
 }

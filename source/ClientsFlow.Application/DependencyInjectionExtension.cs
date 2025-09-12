@@ -1,4 +1,5 @@
-﻿using ClientsFlow.Application.UseCases.Clients.Register;
+﻿using ClientsFlow.Application.UseCases.Clients.GetAll;
+using ClientsFlow.Application.UseCases.Clients.Register;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace ClientsFlow.Application
@@ -15,6 +16,7 @@ namespace ClientsFlow.Application
         private static void AddUseCase(IServiceCollection services)
         {
             services.AddScoped<IRegisterClientUseCase, RegisterClientUseCase>();
+            services.AddScoped<IGetClientsUseCase, GetClientsUseCase>();
         }
 
     }

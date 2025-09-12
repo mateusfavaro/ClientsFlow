@@ -18,7 +18,7 @@ namespace ClientsFlow.Application.UseCases.Clients.Register
             _unitOfWork = unitOfWork;
         }
 
-        public ResponseRegisterClientJson RegisterClient(RequestRegisterClientJson request)
+        public async Task<ResponseRegisterClientJson> RegisterClient(RequestRegisterClientJson request)
         {
 
             Validate(request);
@@ -31,11 +31,16 @@ namespace ClientsFlow.Application.UseCases.Clients.Register
                 AreaOfActivity = (Domain.Enums.AreaOfActivity)request.AreaOfActivity,
             };
 
-            _repository.Add(entity);
-            _unitOfWork.SaveDB();
+            await _repository.Add(entity);
+            await _unitOfWork.SaveDB();
 
 
-            return new ResponseRegisterClientJson();
+            var response = new ResponseRegisterClientJson
+            {
+                ClientName = request.ClientName,
+            };
+
+            return response;
         }
 
         private void Validate(RequestRegisterClientJson request)

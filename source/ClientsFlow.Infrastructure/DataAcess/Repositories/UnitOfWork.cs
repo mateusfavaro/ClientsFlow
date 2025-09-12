@@ -12,9 +12,9 @@ namespace ClientsFlow.Infrastructure.DataAcess.Repositories
             _dbContext = context;
         }
 
-        public void SaveDB()
+        public async Task SaveDB()
         {
-            _dbContext.SaveChanges();
+            await _dbContext.SaveChangesAsync();
         }
     }
 }
