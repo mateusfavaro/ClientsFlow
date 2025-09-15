@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.application\\usecases\\clients\\getall\\getclientsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|solutionrelative:source\\clientsflow.application\\usecases\\clients\\getall\\getclientsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0085C5FB-C8D6-449A-B0AD-3EAF30AEF3B9}|source\\ClientsFlow.Api\\ClientsFlow.Api.csproj|solutionrelative:source\\clientsflow.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.application\\usecases\\clients\\getall\\igetclientsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|solutionrelative:source\\clientsflow.application\\usecases\\clients\\getall\\igetclientsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|c:\\users\\mateus\\documents\\dev\\workspace\\clientsflow\\source\\clientsflow.application\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4BFED-7C41-4A02-9F07-9369D0032234}|source\\ClientsFlow.Application\\ClientsFlow.Application.csproj|solutionrelative:source\\clientsflow.application\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterClientUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T04:12:08.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGetClientsUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\IGetClientsUseCase.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\IGetClientsUseCase.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\IGetClientsUseCase.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\IGetClientsUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T04:03:18.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
               "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "source\\ClientsFlow.Api\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T03:59:23.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetClientsUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\GetClientsUseCase.cs",
-              "RelativeDocumentMoniker": "source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\GetClientsUseCase.cs",
-              "ToolTip": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\ClientsFlow\\source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\GetClientsUseCase.cs",
-              "RelativeToolTip": "source\\ClientsFlow.Application\\UseCases\\Clients\\GetAll\\GetClientsUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T03:12:09.475Z",
               "EditorCaption": ""
             }
           ]

@@ -28,5 +28,13 @@ namespace ClientsFlow.Api.Controllers
             return Ok(response);
 
         }
+
+
+
+        //Endpoint para recuperar uma despesa por ID
+        //Configurar exceção e filtro para um notfound id
+
+
+
     }
 }
