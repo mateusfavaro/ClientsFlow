@@ -1,6 +1,8 @@
 ﻿using ClientsFlow.Application.UseCases.Clients.GetAll;
+using ClientsFlow.Application.UseCases.Clients.GetById;
 using ClientsFlow.Application.UseCases.Clients.Register;
 using ClientsFlow.Communication.Requests;
+using ClientsFlow.Communication.Responses;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ClientsFlow.Api.Controllers
@@ -20,6 +22,8 @@ namespace ClientsFlow.Api.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> GetAllClients([FromServices] IGetClientsUseCase useCase)
         {
 
@@ -29,10 +33,20 @@ namespace ClientsFlow.Api.Controllers
 
         }
 
+        [HttpGet]
+        [Route("{id}")]
+        [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> GetById(
+            [FromServices] IGetClientByIdUseCase useCase,
+            [FromRoute] long id)
+        {
+            var response = await useCase.Execute(id);
+
+            return Ok(response);
+        }
 
 
-        //Endpoint para recuperar uma despesa por ID
-        //Configurar exceção e filtro para um notfound id
 
 
 

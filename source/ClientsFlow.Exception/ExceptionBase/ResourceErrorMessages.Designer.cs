@@ -79,6 +79,15 @@ namespace ClientsFlow.Exception.ExceptionBase {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Client not found..
+        /// </summary>
+        public static string CLIENT_NOT_FOUND {
+            get {
+                return ResourceManager.GetString("CLIENT_NOT_FOUND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The name is required..
         /// </summary>
         public static string REQUIRED_NAME {

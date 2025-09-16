@@ -12,5 +12,7 @@ namespace ClientsFlow.Domain.Repositories.Clients
 
         Task<List<Client>> GetAll();
 
+        Task<Client?> GetById(long id);
+
     }
 }

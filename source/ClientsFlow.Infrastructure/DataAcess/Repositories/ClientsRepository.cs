@@ -23,8 +23,13 @@ namespace ClientsFlow.Infrastructure.DataAcess.Repositories
         public async Task<List<Client>> GetAll()
         {
             
-            return await _dbContext.Clients.ToListAsync();
+            return await _dbContext.Clients.AsNoTracking().ToListAsync();
 
+        }
+
+        public async Task<Client?> GetById(long id)
+        {
+            return await _dbContext.Clients.AsNoTracking().FirstOrDefaultAsync(c => c.Id == id);
         }
     }
 }

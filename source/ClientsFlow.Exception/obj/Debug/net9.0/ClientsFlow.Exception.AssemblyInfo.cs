@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientsFlow.Exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fbd0ce7026eba977cb4a03ad264e6dbe69892f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e89f99a99cda21cd197a826bb348d9c7ea15662")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClientsFlow.Exception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientsFlow.Exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
